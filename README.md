@@ -4,7 +4,7 @@ Link to public Tableau Story: [(https://public.tableau.com/authoring/TL_Mod14_00
 
 ## Overview: 
 
-### For this Project, I was analyzed data from a NYC bikesharing company called CitiBike.  Investors are looking into starting a similar program in Des Moines Iowa and would like to see some visuals of trends regarding gender-specific usage, as well as ride length and time of day/week.  The big question…. Des Moines is not as big as NYC, can we interpret anything from the NYC data that can help us to predict a successful execution of bikesharing in Iowa?  I used Tableau graphics to provide the information I obtained for this project.
+### For this Project, I was tasked with analyzing data from a NYC bikesharing company called CitiBike.  Investors are looking into starting a similar bikesharing program in Des Moines Iowa and would like to see some visuals of trends regarding gender-specific usage, as well as ride length and time of day/week.  The big question…. Des Moines is not as big as NYC, can we interpret anything from the NYC data that can help us to predict a successful execution of bikesharing in Iowa?  I used Tableau graphics to provide the information I obtained for this project.
 --------------------------------------------------------------------------------------------------------------
 ## Results:
 
