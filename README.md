@@ -1,6 +1,6 @@
 # Module 14  Bikesharing in NYC
 ### by Terra Lasho 
-Link to public Tableau Story: [(https://public.tableau.com/authoring/TL_Mod14_002/BikesCheckedout/Checkout%20Times%20for%20Users#1)]
+Link to public Tableau Story: [(https://public.tableau.com/authoring/TL_Mod14_002/Story1#1)]
 
 ## Overview: 
 
