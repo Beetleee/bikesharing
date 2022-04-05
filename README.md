@@ -40,7 +40,8 @@ Figure 6
 ![](https://github.com/Beetleee/bikesharing/blob/main/resources/plot4.png)
 
 
-##Summary
+## Summary
+
 ### In conclusion, bikeshare services are very popular in large populous areas, where driving and parking cars may be more difficult.  I think the three takeaways from this data are to provide access to interesting areas which take ~20-30min of riding, incentivize more women somehow, and promote subscriptions and advertise access during commuter times!  In future, I would look at age distribution and geographic locale (are these people using the bikes for business or recreation???). This information would help with advertising angles.
 
 
